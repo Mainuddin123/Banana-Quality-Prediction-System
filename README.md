@@ -77,6 +77,24 @@ Banana-Quality-Prediction-System/
 ├── requirements.txt
 └── README.md
 ```
+## Application Screenshots:
+
+# Premium Prediction
+
+![Premium Prediction](<img width="1599" height="1200" alt="WhatsApp Image 2026-06-23 at 9 50 22 PM" src="https://github.com/user-attachments/assets/d29b6e46-93da-4ed3-9eae-6d8fc3ff9777" />
+)
+
+<img width="1599" height="1200" alt="WhatsApp Image 2026-06-23 at 9 50 23 PM (2)" src="https://github.com/user-attachments/assets/574a6ed6-a980-4146-8b33-94a11d7f4166" />
+
+### Standard Prediction
+
+![Standard Prediction](<img width="1599" height="1200" alt="WhatsApp Image 2026-06-23 at 9 50 23 PM" src="https://github.com/user-attachments/assets/dc649ad5-bfed-4fc1-85ce-66a99f8e494a" />
+)
+
+### Processing Prediction
+
+![Processing Prediction](<img width="1599" height="1200" alt="WhatsApp Image 2026-06-23 at 9 50 23 PM (1)" src="https://github.com/user-attachments/assets/8ead8e1f-5f55-49ee-a11c-a557ad6f1b0c" />
+)
 
 ---
 
