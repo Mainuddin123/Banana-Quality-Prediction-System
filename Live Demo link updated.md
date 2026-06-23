@@ -97,8 +97,15 @@ Banana-Quality-Prediction-System/
 )
 
 ---
+## Live Demo
 
-## Developer
+🔗 Streamlit App:
+https://banana-quality-prediction-system-qwxondgdlzfmr7868zbrju.streamlit.app/
+
+🔗 GitHub Repository:
+https://github.com/Mainuddin123/Banana-Quality-Prediction-System
+
+## Developed by
 
 **Khaja Mainuddin**
 
